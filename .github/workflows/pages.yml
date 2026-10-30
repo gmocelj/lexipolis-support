@@ -24,11 +24,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Plain HTML: no build step. Keep the workflow and README out of the site.
+      # Generated rules are committed as static HTML: no build step. Keep the workflow and README out of the site.
       - name: Collect the site
         run: |
           mkdir _site
-          cp -R index.html style.css support privacy _site/
+          cp -R index.html 404.html style.css support privacy rules _site/
           touch _site/.nojekyll
 
       - name: Configure Pages

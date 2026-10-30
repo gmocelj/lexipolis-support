@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "rulesVersion": "1.0",
+  "sources": {
+    "assets/help/rules/bs.json": "2b539d9b234b93fd626572a01194cc498ad231de60a100337431044444c1a231",
+    "assets/help/rules/cnr.json": "bad5347d3830ecbf364d22571c81bc47f1e0a201db3fa933daf66b320d558a75",
+    "assets/help/rules/de.json": "738b86e7c4705d2ec2bb8a74e6b87cfb9bc2557d0ee58eb8b99fdfaddecabc42",
+    "assets/help/rules/en.json": "9d04895ab31251d537dd6a49c0a5b5314b0be3bff34fd386f200c981d9ad684b",
+    "assets/help/rules/es.json": "df1d5e00281313cbc8eae58f004c79d6d4094d3d14b06d8a1371f3e3e455207f",
+    "assets/help/rules/hr.json": "cafcd3a80dfdcb8237c21e851cbebc42446a44034d2f48130eb88cf83926b148",
+    "assets/help/rules/mk.json": "e8483d8bf8cf6e18db7d00629b86dd2a5e85be29ade591bf49f9567257f13610",
+    "assets/help/rules/ru.json": "693fdf5f64e9c62d0f466db26ed730a592e7272f10b8dd307bb516f5adf8c218",
+    "assets/help/rules/sl.json": "1ae78425cdfe076520da8d98dcb31e57f5c965ad1c64ea4380860a55de7a4666",
+    "assets/help/rules/sr-Cyrl.json": "feef8eac947212c43126dd20e7fc366888ad0ae4cbdfba2ad4f57e56540f6a50",
+    "assets/help/rules/sr-Latn.json": "446e1772281f833447f52934765a4e7fdd9844d7fa2b4072faee6149aeb6582f"
+  }
+}
