@@ -9,39 +9,38 @@
 <body>
 <header><div class="wrap"><h1>Politika privatnosti</h1><nav><a href="../">Lexipolis</a><a href="../support/">Podrška / Support</a><a href="../privacy/">Privatnost / Privacy</a></nav></div></header>
 <main class="wrap">
-  <p class="muted">Važi od 16. oktobra 2026.</p>
-  <p><strong>Lexipolis ne prikuplja nikakve podatke.</strong> Nema naloga, prijave, reklama, analitike ni praćenja, i ništa se ne šalje autoru aplikacije ni trećim licima.</p>
+  <p class="muted">Važi od 30. oktobra 2026.</p>
+  <p><strong>Podaci iz igre ne šalju se autoru aplikacije.</strong> Lexipolis nema naloge, reklame, kupovine niti sopstveni analitički servis. Android QR skener koristi Google ML Kit, čija je tehnička dijagnostika opisana ispod.</p>
   <h2>Šta ostaje na uređaju</h2>
-  <ul>
-    <li><strong>Ime igrača</strong> koje upišete čuva se samo na vašem uređaju, da ga ne biste kucali svaki put.</li>
-    <li><strong>Izabrani jezik aplikacije</strong> čuva se samo na vašem uređaju.</li>
-  </ul>
-  <h2>Igra na više telefona</h2>
-  <p>Kada igrate sa drugima, vaše ime, odgovori i glasovi šalju se direktno uređajima u istoj igri, preko vaše lokalne Wi-Fi mreže ili hotspota. Ti podaci ne idu na internet i ne čuvaju se posle igre.</p>
+  <p>Ime igrača, izbor jezika, nasumični identifikator instalacije za ponovno povezivanje i lokalni brojači korišćenja i pokušaja traženja ocene. Brisanje podataka aplikacije uklanja lokalne postavke. Rezervnim kopijama uređaja upravlja operativni sistem prema svojim podešavanjima.</p>
+  <h2>Igra na više uređaja</h2>
+  <p>Ime, odgovori, glasovi i identifikator za povezivanje razmenjuju se direktno sa uređajima u istoj partiji preko lokalne Wi-Fi mreže ili hotspota. Autor nema server koji prima te podatke. Stanje partije ostaje u memoriji učesnika dok je sesija otvorena; aplikacija ne pravi serversku arhivu. Lokalna veza koristi WebSocket bez TLS šifrovanja, pa aplikacija ne tvrdi da je sav prenos šifrovan.</p>
+  <h2>Android QR skener</h2>
+  <p>Google ML Kit obrađuje sliku za čitanje koda na uređaju. SDK može slati Google-u podatke o uređaju i verziji aplikacije, SDK identifikator instalacije i tehničke događaje, performanse i greške radi dijagnostike i analize korišćenja. SDK dijagnostika se prenosi HTTPS-om. Više: <a href="https://developers.google.com/ml-kit/android-data-disclosure">Google ML Kit — opis podataka</a> i <a href="https://developers.google.com/ml-kit/terms">uslovi i privatnost</a>.</p>
   <h2>Dozvole</h2>
-  <ul>
-    <li><strong>Lokalna mreža</strong> — samo da bi aplikacija pronašla igre u blizini i povezala se sa njima.</li>
-    <li><strong>Kamera</strong> — samo da biste skenirali kod igre sa ekrana domaćina. Slike se ne čuvaju i ne šalju.</li>
-  </ul>
+  <p>Lokalna mreža služi za pronalaženje i povezivanje učesnika. Kamera služi samo za čitanje koda domaćina; aplikacija ne čuva niti šalje fotografije. Možete se pridružiti i izborom igre sa liste, bez skeniranja.</p>
+  <h2>Ocene i podrška</h2>
+  <p>Sistemsko ocenjivanje je opciono. Ako pošaljete ocenu ili recenziju, sadržaj obrađuje Apple App Store ili Google Play prema svojim pravilima; aplikacija ne zna da li ste ostavili ocenu. Linkovi ka prodavnici i podršci u Podešavanjima otvaraju se posle roditeljske provere. Spoljni sajtovi imaju svoje uslove i politike privatnosti.</p>
   <h2>Deca</h2>
-  <p>Aplikaciju mogu da koriste i deca. Nema reklama, kupovina ni linkova ka spoljnim sajtovima, i ne prikupljaju se nikakvi podaci.</p>
+  <p>Nema reklama, kupovina niti javne društvene mreže. Igrači razmenjuju sadržaj unutar lokalne partije. Spoljne Settings akcije imaju roditeljsku zaštitu; SDK obrada na Androidu opisana je iznad.</p>
   <h2>Kontakt</h2>
-  <p>Pitanja o privatnosti: <a href="https://github.com/gmocelj/lexipolis-support/issues">https://github.com/gmocelj/lexipolis-support/issues</a></p>
-
+  <p>Autor: Goran Mocelj. Pitanja o privatnosti: <a href="mailto:goran.mocelj@gmail.com">goran.mocelj@gmail.com</a>. Ako sami kontaktirate podršku, podatke koje pošaljete koristimo za odgovor na taj zahtev.</p>
   <section class="lang" lang="en">
     <h2>Privacy policy</h2>
-    <p class="muted">Effective 16 October 2026.</p>
-    <p><strong>Lexipolis does not collect any data.</strong> There are no accounts, sign-in, ads, analytics or tracking, and nothing is sent to the developer or to third parties.</p>
-    <h3>Stored on your device only</h3>
-    <p>The player name you enter and your app language choice, so you do not have to enter them again.</p>
-    <h3>Playing with others</h3>
-    <p>Your name, answers and votes go directly to the devices in the same game over your local Wi-Fi or hotspot. They do not go to the internet and are not kept after the game.</p>
+    <p class="muted">Effective 30 October 2026.</p>
+    <p><strong>Game data is not sent to the developer.</strong> There are no accounts, ads, purchases or developer-operated analytics. The Android QR scanner uses Google ML Kit, with SDK diagnostics described below.</p>
+    <h3>On-device storage</h3>
+    <p>Your player name, language choice, a random installation identifier for reconnecting, and local usage/review-attempt counters. Clear the app's storage to remove local settings. Device backups are managed by the operating system under its settings.</p>
+    <h3>Local multiplayer</h3>
+    <p>Names, answers, votes and the reconnect identifier are exchanged directly with devices in the same game over local Wi-Fi or a hotspot. There is no developer server receiving them. Game state stays in participants' memory while the session is open; the app creates no server archive. The local WebSocket connection is not TLS encrypted; we do not claim all data transmission is encrypted.</p>
+    <h3>Android QR scanning</h3>
+    <p>Google ML Kit reads camera images on-device. The SDK may send Google device/app information, an SDK installation identifier, technical events, performance and errors for diagnostics and usage analysis, over HTTPS. See <a href="https://developers.google.com/ml-kit/android-data-disclosure">Google's data disclosure</a> and <a href="https://developers.google.com/ml-kit/terms">terms and privacy</a>.</p>
     <h3>Permissions</h3>
-    <p><strong>Local network</strong>: only to find and join games nearby. <strong>Camera</strong>: only to scan a game code on the host's screen; images are neither stored nor sent.</p>
-    <h3>Children</h3>
-    <p>The app is suitable for children: no ads, no purchases, no links to outside websites, and no data collection.</p>
+    <p>Local networking discovers and connects players. Camera access only reads a host's code; the app does not store or transmit camera photos. Joining from the nearby-game list does not require scanning.</p>
+    <h3>Reviews, support and children</h3>
+    <p>Optional ratings/reviews are handled by Apple App Store or Google Play under their terms. The app cannot tell whether you left a review. External store/support actions in Settings require a parental interaction. There are no ads, purchases or public social network; player content stays within the local game. External websites have their own privacy policies.</p>
     <h3>Contact</h3>
-    <p>Privacy questions: <a href="https://github.com/gmocelj/lexipolis-support/issues">https://github.com/gmocelj/lexipolis-support/issues</a></p>
+    <p>Developer: Goran Mocelj. Privacy questions: <a href="mailto:goran.mocelj@gmail.com">goran.mocelj@gmail.com</a>. Information you voluntarily send to support is used to respond to your request.</p>
   </section>
 </main>
 <footer class="wrap">© 2026 Goran Mocelj</footer>
