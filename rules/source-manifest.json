@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "rulesVersion": "1.1",
+  "rulesVersion": "1.2",
   "sources": {
-    "assets/help/rules/bs.json": "af10b8ec9242cc15c1347858c912a38bf85e464e1354afb688ab39bd841e70a2",
-    "assets/help/rules/cnr.json": "9f65e3dac931e8d8db6db920460292366de208a7e7bf9ae03c06288d93263dd1",
-    "assets/help/rules/de.json": "86eddc3786c2ceec809985ed9af1ef395958a5e83de9731c8504d9efe01c816f",
-    "assets/help/rules/en.json": "291030eeefff2ff09d07a8cc1c623595eb22a5cc54e324fb438021a254a9d56b",
-    "assets/help/rules/es.json": "a946756ad4287268ee0ad3cf975445f2b72592d0387fd95222944e3492418658",
-    "assets/help/rules/hr.json": "63a2c0095cddedca11e55204179f92cd1bd5ac77c354aac67dad82eb0a47a213",
-    "assets/help/rules/mk.json": "2dac53649338ae4cecd7c647ac4d23196225d3b663ced5c65722a8eda03c7af6",
-    "assets/help/rules/ru.json": "eebe2c56d3701536469afd73397adad28e12873e4edbf58fa84200e174ec4326",
-    "assets/help/rules/sl.json": "27f6422a8a58e5a4c5fb4958d905e91d4f4947f4577946d7d94005179e74fdaf",
-    "assets/help/rules/sr-Cyrl.json": "68e3f50aff52f70b98f2d655078860faeedb0f021d948415c224a4793d8c39e0",
-    "assets/help/rules/sr-Latn.json": "65c87f720df69413f0f98d0670f57ac9dfea1f40fecc2f4fa902f275b6a570e1"
+    "assets/help/rules/bs.json": "b9d4fbc289159c2fbffaceab56bb661a696d2430dcd75ed7bfd67b9094ec3701",
+    "assets/help/rules/cnr.json": "4a75a12cef7795a98e15a72c4722e79334c44b896bf87380674b4dd687aa1367",
+    "assets/help/rules/de.json": "426f4880cd41f043f867e4450ed8f18b1f132a0010b02976593733a645a35aa7",
+    "assets/help/rules/en.json": "f4678f718434761f62c1220ea59057a3e57f4c5872332344abe0581b0e0f3fb3",
+    "assets/help/rules/es.json": "8ac6f72ad84be5323fed7be0084ef62f231cfd42da08d3c733aedf698825871b",
+    "assets/help/rules/hr.json": "dfcbb747c26277923177b382c6afbbac6dd81bdc3dba575db1dda37785a96994",
+    "assets/help/rules/mk.json": "533ce2a10ca52f382f27c4c8e4298e727aff15d88d64e472bed823c145f6e28b",
+    "assets/help/rules/ru.json": "c8ce5d85bda329a5d86fc179741bc2164741d9b787efead81106773c34068551",
+    "assets/help/rules/sl.json": "dff83fcfaa6c2a61c87fe6625831b685070fc986cab5a95ae93b0825991f60f5",
+    "assets/help/rules/sr-Cyrl.json": "da1cd2b7c1bababcbbdcf3af39c13573ee408ea4ffc1896081ad3ddf4f5b05a0",
+    "assets/help/rules/sr-Latn.json": "9cad71c7ec49e05aa25d00d58c3502d9b3e14c8b9f2a5f4b242a237d888d6a4c"
   }
 }
