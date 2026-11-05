@@ -1,6 +1,6 @@
 # Lexipolis — support site
 
-Home, support (FAQ) and **privacy policy** for the
+Home, support (FAQ), **privacy policy** and **terms of use** for the
 [Lexipolis](https://github.com/gmocelj/lexipolis) app, in Serbian (Latin) and English.
 Static HTML and CSS without trackers. Rules have optional JavaScript for language selection
 and an isolated voting example; localized pages remain readable without it. Deployed to GitHub Pages by
@@ -12,6 +12,7 @@ and an isolated voting example; localized pages remain readable without it. Depl
 | Support | https://gmocelj.github.io/lexipolis-support/support/ |
 | Rules | https://gmocelj.github.io/lexipolis-support/rules/ |
 | Privacy | https://gmocelj.github.io/lexipolis-support/privacy/ |
+| Terms | https://gmocelj.github.io/lexipolis-support/terms/ |
 
 The Support and Privacy URLs are the ones in the App Store and Google Play listings
 (`ios/fastlane/metadata/*/support_url.txt` and `privacy_url.txt` in the app repo).
