@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "rulesVersion": "1.2",
   "sources": {
-    "assets/help/rules/bs.json": "bf1cac6d9bc387a38e3ba0add56e36d1b8d900405a636a931d1728996e21e7b6",
-    "assets/help/rules/cnr.json": "381580e46d02a7e60698ae69355ebb910644bb9f97e06ab9b51fe5e6868d7b50",
-    "assets/help/rules/de.json": "88f4e64bbbf2ef65d0fd0d65f8552a04cf36e7289985d6b23ce89331b6448436",
-    "assets/help/rules/en.json": "8d95e35d494731514b06ad1c418d52d5fc7f4ba76ac98f4ca14e996eef656182",
-    "assets/help/rules/es.json": "c962bd9b5dfa9516715e1fed58ba02fea76a22ea6906703c59413547f16ef54d",
-    "assets/help/rules/hr.json": "55dfde6606caeb057340c7aea39d193015a091344ba07bedf3851124a6b93670",
-    "assets/help/rules/mk.json": "81c7067dcea2e0becddc37b161d1b37f01010846cd8a89e2f7abbfe556bc2cc0",
-    "assets/help/rules/ru.json": "d47462158908f64f17c07483e5f75d30557c956e4fa51d6fa38fa5f9444d274f",
-    "assets/help/rules/sl.json": "30d0666425a4ad3f1b9d12a9e16ce33d3e99a63917a68d0abf26cec4a19c6cd6",
-    "assets/help/rules/sr-Cyrl.json": "f15a3aeea30d94a20b6233bef264f83de6529bfc3b4e2eed36deb80cff697916",
-    "assets/help/rules/sr-Latn.json": "0c3894c76e20329b670d858805a00a48f78e2b365292ff25095d9ce264126792"
+    "assets/help/rules/bs.json": "c8ab73bf9d96862af0dbfedfb645fe802246708ae2be26ff9d72f9351f8afab3",
+    "assets/help/rules/cnr.json": "f7b29e13505e177f6625c98e0a0c3de3cd34ae5d5918daa493f40217269abc37",
+    "assets/help/rules/de.json": "06d2a5907a2d32e7fb3a052b57c97e2d7edaab8faa2aa6f1ca567af36460c6dc",
+    "assets/help/rules/en.json": "cc2ed8ab2929583b08b5575ae76aacc4f63a10eacb04f34373e68033756222c9",
+    "assets/help/rules/es.json": "2cd6785d3afe178bfa7b01380ad62e5e8afeaf51b3ea5ffe679c242481d67df9",
+    "assets/help/rules/hr.json": "cf2b47d8f2e42e51c0bbab996d73c018cdf305f1f788c65b1768490971ca48a4",
+    "assets/help/rules/mk.json": "4492ad83da6cc26bd25b82ebe06b9afea1adb744d55115e5806d129dd7899cc3",
+    "assets/help/rules/ru.json": "1b6644823e5fcf514648ba326752dff6414ac777a528ff480eff247626d4429c",
+    "assets/help/rules/sl.json": "c9db12b8b7de6c825b354cdff1b75fd7a15f20a9c21986f15f3b21f569d081ed",
+    "assets/help/rules/sr-Cyrl.json": "12d2f47cddda4b455167c792091f23aa8469c9088f70c0f0baea1f72de922bfe",
+    "assets/help/rules/sr-Latn.json": "3b8c0394ba435de34563400eb4566ca0d90998077803ebfc45ad9799e3278bde"
   }
 }
