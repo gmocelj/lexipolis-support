@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "rulesVersion": "1.4",
+  "rulesVersion": "1.5",
   "sources": {
-    "assets/help/rules/bs.json": "39bfc831a1878928ebf5317d069a315119a20b5665b6563309b7554ecfc06a5b",
-    "assets/help/rules/cnr.json": "144c9471e228eb5dff823cd52ce6e9ea13f65465ee5cdf391add92fd32a15459",
-    "assets/help/rules/de.json": "fdd70828d14a0bead19533208d82237be937ed043d0a757af0c42c9b7ac07079",
-    "assets/help/rules/en.json": "e01a4e2abfff82368ccffc6bb93cb8cf4dd52059a95159ecf6838df06e3200c2",
-    "assets/help/rules/es.json": "80d62b1be00766ce1156e438ffab9aa016155ec5d94c24c9a44d8077ecf7a8d6",
-    "assets/help/rules/hr.json": "40dee012c2028fa60a7b34e86a5da0016b4933ee649356b95607ac8345516b4e",
-    "assets/help/rules/mk.json": "e7d6e0664b17193770d6c2d972e52907af37299bb78ff298da01bb2fd75827a3",
-    "assets/help/rules/ru.json": "b35f1c756b3264cd1381cbe4f72db8c4977cccf52826674fc328a2668f5fbc56",
-    "assets/help/rules/sl.json": "d45e78341855348e399eb5d0552fc5ec0107d7ad0a45e2fdf1a49c42d573e296",
-    "assets/help/rules/sr-Cyrl.json": "fa5335907b3b1152f3c50134af77c1d437350cfdd0732f6403cc0f50627c453f",
-    "assets/help/rules/sr-Latn.json": "9d81d9720eabc094b4bdd94a0af8eff9c503eef3e5e70af724b3a964bd12885b"
+    "assets/help/rules/bs.json": "4001bdfb571795a105c75e4faaf21a751285b4743f755f32b6a834a92e8c4dec",
+    "assets/help/rules/cnr.json": "a241717f352d03353c44a8a04ce3c438384fe3367de44f96b53f89652815fc37",
+    "assets/help/rules/de.json": "ddf7fbeda03feb27f55b65f8472eedf99c3002e1a928dedb55116fb559072bc4",
+    "assets/help/rules/en.json": "192cbc2f897b850a694a3fa8cfd5f38e01a7cd12c7a7775ff6e6e70ebc35d183",
+    "assets/help/rules/es.json": "3c32aaebfeb1b1aaf841085fc70847d175676f1a7017a588a097c2a0e7b646a8",
+    "assets/help/rules/hr.json": "84d4b24f8ae7798cd2194239c4c445ce35e346d0d5d40bcc7249f2b738716efd",
+    "assets/help/rules/mk.json": "f45226ab18d07edc5fde273b761972a71237df262a21e9a1e44c28d6f567edea",
+    "assets/help/rules/ru.json": "39123e89a41b4e3445006509014f3465f4c808fd9cf1fd4c5d41028f17c7b1a4",
+    "assets/help/rules/sl.json": "79a195b103405b34cd9f6df0e713de5aa1ccb2cfe272fb0cea947b9a0b9cb428",
+    "assets/help/rules/sr-Cyrl.json": "d7c4acbc809fb713c24794a0ca0c62abe29cd3aea877e9234419cf0dd2dee265",
+    "assets/help/rules/sr-Latn.json": "34dc327408ea16c80d5f02cfbc07c5660dd83bea5eae679b96c3c871663d52f8"
   }
 }
